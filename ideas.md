@@ -1,8 +1,9 @@
-Finding Octopus projects that have no tenant
+## Finding Octopus projects that have no tenant
 
-Why the State of Javascript/Typescript/React/Angular development is so complex.
+##Why the State of Javascript/Typescript/React/Angular development is so complex.
 
-How to calculate the 2 digit year efficiently.
+## How to calculate the 2 digit year efficiently.
+
 | Method    | Mean      | Error    | StdDev   |
 |---------- |----------:|---------:|---------:|
 | UseMod    |  16.09 us | 0.319 us | 0.298 us |
