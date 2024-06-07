@@ -1,3 +1,5 @@
+Finding Octopus projects that have no tenant
+
 Why the State of Javascript/Typescript/React/Angular development is so complex.
 
 How to calculate the 2 digit year efficiently.
