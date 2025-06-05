@@ -34,5 +34,8 @@ After making these changes restart your postgres service.
 
 to get the actual directory where the datafiles are stored, you can run this query
 ```
-SELECT oid, datname, replace(((select setting from pg_settings where name = 'data_directory') || '/base/' || oid || '/'), '/','\') as directory FROM pg_database
+SELECT
+oid, datname,
+replace(((select setting from pg_settings where name = 'data_directory') || '/base/' || oid || '/'), '/','\') as directory
+ FROM pg_database
 ```
