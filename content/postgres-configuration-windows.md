@@ -29,3 +29,10 @@ host all all 192.168.1.149/32 scram-sha-256
 always use the highest of the possible options of the Method (last column)
 
 After making these changes restart your postgres service. 
+
+## Database Directory Location
+
+to get the actual directory where the datafiles are stored, you can run this query
+```
+SELECT oid, datname, replace(((select setting from pg_settings where name = 'data_directory') || '/base/' || oid || '/'), '/','\') as directory FROM pg_database
+```
