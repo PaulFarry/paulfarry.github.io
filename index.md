@@ -7,4 +7,4 @@
 
 [List .net6 api routes for integration testing](./content/listing-aspnetcore-routes) 
 
-[Setting Postgres Network Connectity](./content/postgres-configuration-windows)
+[Setting Postgres Network Connectivity](./content/postgres-configuration-windows)
