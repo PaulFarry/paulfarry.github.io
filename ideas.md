@@ -1,3 +1,15 @@
+## Finding Azure Devops Project Environments
+  in devops you have environments
+    -dev
+    -test
+    -prod
+for use with YAML pipelines.
+
+These can then have virtual machines added which will create an environment
+The environment can have a strange name, so it's best to rename this as soon as possible so that they don't get lost.
+
+
+
 ## Finding Octopus projects that have no tenant
 
 ## Why the State of Javascript/Typescript/React/Angular development is so complex.
