@@ -8,3 +8,5 @@
 [List .net6 api routes for integration testing](./content/listing-aspnetcore-routes) 
 
 [Setting Postgres Network Connectivity](./content/postgres-configuration-windows)
+
+[Nothing Changes if Nothing Changes](./content/nothing-changes.md)
