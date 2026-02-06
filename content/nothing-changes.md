@@ -7,11 +7,11 @@ make an assessment over what we like and what we don't.
 We then figure out how to make things better. 
 
 Continuous Improvement requires making small changes and 
-assesding if thst change made things better or worse. 
+assessing if that change made things better or worse. 
 
-If things are worse what change back and think of a new strategy. (we know that doesnt work)
+If things are worse, we then change back and think of a new strategy. (we know that didn't work)
 
-If things are better. we keep that change and then work on or think of our new piece to improve. 
+If things are better, we keep that change and then work on or think of our new piece to improve. 
 
 This gives us an outcome either way but the good thing is... 
 
