@@ -10,3 +10,5 @@
 [Setting Postgres Network Connectivity](./content/postgres-configuration-windows)
 
 [Nothing Changes if Nothing Changes](./content/nothing-changes.md)
+
+[Lets Encrypt Windows Renewals](./content/nothing-changes.md) Using Simple-Acme and Route53 Plugin
