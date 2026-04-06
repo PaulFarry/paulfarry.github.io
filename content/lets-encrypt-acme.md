@@ -42,8 +42,19 @@ Create a user in AWS Iam and grant it your appropriate security options. Be as r
 }
 ```
 
+### Add Secret
+Add your Secret to the vault
+(O) More Options -> (S) manage Secrets -> (A) Add Secret -> (enter the value) -> Give it a name For use in the next step.
+
+### Edit Renewals
 If you have existing renewals (as I did) you'll need to edit them.
 
-(A) Manage Renewals -> select the number -> (E) Edit Renewal -> (5) Validation ->  "Find [dns] Create verification Records in Route 53 DNS" (mine was option 6) -> (3) Access Key 
+(A) Manage Renewals -> select the number -> (E) Edit Renewal -> (5) Validation ->  "Find [dns] Create verification Records in Route 53 DNS" (mine was option 6) -> (3) Access Key -> Enter the Access Key ID (the non-secret piece) -> (2) Search in Vault -> (1) vault://json/(name from previous step) -> Assume STS - skip <enter> -> region <default>
+
+
+
+
+
+
 
 
